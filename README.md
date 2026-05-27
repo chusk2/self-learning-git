@@ -1,5 +1,4 @@
-# Mi Primer Repositorio
-
+# Mi Primer Repositorio — Edición desde MAIN
 Este es mi primer proyecto en Git. Estoy aprendiendo control de versiones.
 
 ## Lo que he aprendido

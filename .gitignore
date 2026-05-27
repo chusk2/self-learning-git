@@ -1,0 +1,12 @@
+# environment files
+
+*.env
+
+# log files
+
+*.log
+*.logs
+
+# personal files
+
+notas.txt

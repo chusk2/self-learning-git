@@ -1,4 +1,4 @@
-# Mi Primer Repositorio — Trabajo en progreso sin comitear
+# Mi Primer Repositorio
 
 Este es mi primer proyecto en Git. Estoy aprendiendo control de versiones.
 

@@ -1362,8 +1362,12 @@ git merge --no-ff feature/lista-tareas -m "Merge feature/lista-tareas into main"
 git log --oneline --graph --all
 git push
 
-git branch -d feature/lista-tareas
 git push origin --delete feature/lista-tareas
+# Borra la rama en el REMOTO primero. Si borras la local antes, `-d` fallará
+# porque Git seguirá viendo origin/feature/lista-tareas con commits no integrados en el remoto.
+
+git branch -d feature/lista-tareas
+# Ahora sí permite `-d`: la remota ya no existe, no hay riesgo de pérdida.
 ```
 
 **Paso 7 — Marca la versión final como release:**

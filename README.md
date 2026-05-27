@@ -1,4 +1,5 @@
-# Mi Primer Repositorio — Edición desde MAIN
+# Mi Primer Repositorio — Edición combinada (main + feature)
+
 Este es mi primer proyecto en Git. Estoy aprendiendo control de versiones.
 
 ## Lo que he aprendido

@@ -13,3 +13,6 @@ Este es mi primer proyecto en Git. Estoy aprendiendo control de versiones.
 - git commit
 - git status
 - git log
+
+## Actualización del compañero
+Se ha añadido información mientras trabajabas en tu feature.

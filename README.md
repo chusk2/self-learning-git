@@ -1,4 +1,4 @@
-# Mi Primer Repositorio — Edición combinada (main + feature)
+# Mi Primer Repositorio — Trabajo en progreso sin comitear
 
 Este es mi primer proyecto en Git. Estoy aprendiendo control de versiones.
 

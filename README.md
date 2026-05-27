@@ -6,3 +6,10 @@ Este es mi primer proyecto en Git. Estoy aprendiendo control de versiones.
 - Inicializar un repositorio con `git init`
 - Añadir archivos con `git add`
 - Confirmar cambios con `git commit`
+
+## Comandos básicos aprendidos
+- git init
+- git add
+- git commit
+- git status
+- git log
